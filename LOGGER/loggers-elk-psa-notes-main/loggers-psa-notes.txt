@@ -1,3 +1,27 @@
+#AS WE KNOW CONTINUOUS MONITORING IS ONE OF THE PHASE IN DEVOPS, SO WHAT WE ACHIEVE THROUGH CONTINUOUS MONITORING ?
+-> continuous monitoring is an importatnt part of software devlopment, it is something we take up as measure to maintain the health of a software
+  and improve the quality of the software and this is based on the feedback we get from the insights gained from monitoring.
+like,
+  - producing log file.
+  - producing system perfromance
+  - producing server performance
+  - CPU Usage
+
+TYEPS OF MONITORING : 
+ - system performance 
+ - process monitoring
+ - integeration
+ - application performance
+ - business monitoring
+
+MONITORING TOOLS LIKE,
+
+ELK : for logging
+PROMETHEUS & GRAFANA : for metrics (metrics like, how much cpu consuming and why this much consuming go to see logging)
+
+
+
+
 ###########################
 🧾 What is Logging?
 ###########################
